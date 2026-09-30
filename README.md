@@ -1,9 +1,7 @@
 # Tic_Tac_Toe
 # 🎮 Jogo da Velha (Tic Tac Toe) com Python e Streamlit
 
-Um jogo da velha feito em **Python** com **Streamlit**, com três modos de jogo: dois jogadores, contra o computador no modo fácil e contra o computador **imbatível**, que usa o algoritmo **minimax**.
-
-Projeto criado como parte da minha jornada de aprendizado em programação. 🚀
+Um jogo da velha feito em **Python** com **Streamlit**, com três modos de jogo: dois jogadores, contra o computador no modo fácil e contra o computador **imbatível**, que usa o algoritmo **minimax**. 🚀
 
 ---
 
