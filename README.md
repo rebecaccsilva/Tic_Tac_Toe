@@ -159,6 +159,7 @@ O computador (O) escolhe a jogada de maior pontuação, assumindo que o jogador 
 ## 👩‍💻 Autora
 
 **Rebeca Silva**
+
 Desenvolvedora Junior
 
 - GitHub: [@rebecaccsilva](https://github.com/rebecaccsilva)
